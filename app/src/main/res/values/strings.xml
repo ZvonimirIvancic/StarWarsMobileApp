@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="no_internet">No internet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="application_made_by_zvonimir_ivancic">Application made by Zvonimir Ivančić</string>
+    <string name="items">Items</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="do_you_really_want_to_exit">Do you really want to exit?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+</resources>
